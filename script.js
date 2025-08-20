@@ -179,7 +179,7 @@ $(document).ready(function () {
       hour12: true
     }) || 'Unknown Time';
     const discordData = {
-      username: 'Auto Exotic Clock',
+      username: 'Redline Clock',
       embeds: [{
         title: 'Clock In',
         fields: [
